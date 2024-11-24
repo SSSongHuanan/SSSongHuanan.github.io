@@ -1,6 +1,6 @@
 #### About Me 👋
 
-I am currently an undergraduate student, majoring in Intelligence Science and Technology, in the Joint Programme at Beijing University of Posts and Telecommunications(BUPT)🇨🇳 and Queen Mary University of London(QMUL)🇬🇧.
+I am currently an undergraduate student, majoring in Intelligence Science and Technology, in the Joint Programme at Beijing University of Posts and Telecommunications(BUPT) and Queen Mary University of London(QMUL).
 
 I am also a student member of The Institution of Engineering and Technology(IET). My research interests cover Cross-Modality Person Re-Identiﬁcation.
 
