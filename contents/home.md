@@ -14,7 +14,3 @@ B.Sc. (Eng.) in Intelligent Science and Technology, Beijing University of Posts 
 #### Working Expeirence
 
 I am currently interning at the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Senior Engineer La Zhang.
-
-#### Email
-
-h.song@se22.qmul.ac.uk

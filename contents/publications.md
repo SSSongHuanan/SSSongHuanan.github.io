@@ -8,4 +8,4 @@
 
 - Third Prize in the Beijing Division of the China International College Students Innovation Competition (2024), 2024.
 
-- Third Prize of Information Technology Innovation Contest of 2023 the 9th International Conference on Communication and Information Processing, 2023
+- Third Prize of Information Technology Innovation Contest of 2023 the 9th International Conference on Communication and Information Processing(ICCIP), 2023
