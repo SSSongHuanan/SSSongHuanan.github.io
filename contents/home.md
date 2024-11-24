@@ -1,5 +1,3 @@
-[![SSSongHuanan](https://img.shields.io/badge/SSSongHuanan-github-blue?logo=github)](https://github.com/SSSongHuanan)
-
 #### About Me 👋
 
 I am currently an undergraduate student, majoring in Intelligence Science and Technology, in the Joint Programme at Beijing University of Posts and Telecommunications(BUPT)🇨🇳 and Queen Mary University of London(QMUL)🇬🇧.
