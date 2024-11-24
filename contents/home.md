@@ -1,16 +1,20 @@
+[![SSSongHuanan](https://img.shields.io/badge/SSSongHuanan-github-blue?logo=github)](https://github.com/SSSongHuanan)
 
+#### About Me 👋
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am currently an undergraduate student, majoring in Intelligence Science and Technology, in the Joint Programme at Beijing University of Posts and Telecommunications(BUPT)🇨🇳 and Queen Mary University of London(QMUL)🇬🇧.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
+I am also a student member of The Institution of Engineering and Technology(IET). My research interests cover Cross-Modality Person Re-Identiﬁcation.
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+B.Sc. (Eng.) Hons. in Intelligent Science and Technology, Queen Mary University of London (2022 – 2026)
+B.Sc. (Eng.) in Intelligent Science and Technology, Beijing University of Posts and Telecommunications (2022 – 2026)\
 
+#### Working Expeirence
+
+I am currently interning at the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Senior Engineer La Zhang.
+
+#### Email
+
+h.song@se22.qmul.ac.uk
