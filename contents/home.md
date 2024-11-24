@@ -8,8 +8,8 @@ I am also a student member of The Institution of Engineering and Technology(IET)
 
 #### Education
 
-B.Sc. (Eng.) Hons. in Intelligent Science and Technology, Queen Mary University of London (2022 – 2026)
-B.Sc. (Eng.) in Intelligent Science and Technology, Beijing University of Posts and Telecommunications (2022 – 2026)\
+B.Sc. (Eng.) Hons. in Intelligent Science and Technology, Queen Mary University of London (2022 – 2026)  
+B.Sc. (Eng.) in Intelligent Science and Technology, Beijing University of Posts and Telecommunications (2022 – 2026)
 
 #### Working Expeirence
 
