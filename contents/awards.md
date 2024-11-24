@@ -1,11 +1,15 @@
-- Excellent Student of BUPT (two times), 2024/2023.
+## Get in Touch! 👋
 
-- Second-Class Scholarship of BUPT (two times), 2024/2023.
+Hello there.
 
-- Top Ten Peer Volunteers of BUPT, 2024.
+Expecting the future collaborations and conversations!
 
-- Outstanding Communist Youth League Cadre, 2024
+### 📧 Reach out via email:
 
-- Third Prize in the Beijing Division of the China International College Students Innovation Competition (2024), 2024.
+Email : h.song@se22.qmul.ac.uk
 
-- Third Prize of Information Technology Innovation Contest of 2023 the 9th International Conference on Communication and Information Processing, 2023
+### 🌐 Connect with me online:
+
+[![SSSongHuanan](https://img.shields.io/badge/SSSongHuanan-github-blue?logo=github)](https://github.com/SSSongHuanan)
+
+Looking forward to hearing from you soon! 📩
